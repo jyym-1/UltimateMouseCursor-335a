@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Ultimate Mouse Cursor |cff88ccff(3.3.5a Backport)|r
+## Notes: Custom cursor reticle/rings backported for WoW 3.3.5a. Optional ClassicAPI support recommended.
+## Author: Ultimate; 3.3.5a backport by ChatGPT
+## Version: 1.10.0-335a-r6
+## OptionalDeps: !!!ClassicAPI
+## IconTexture: Interface\AddOns\UltimateMouseCursor\media\UMC_64
+## SavedVariables: UMC_Config
+UltimateMouseCursor.xml
+UMC_Compat_335.lua
+UltimateMouseCursor.lua
+UMC_Settings.lua
